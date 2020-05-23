@@ -16,6 +16,9 @@
 
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
+# Bootanimation
+TARGET_HAS_BOOT_ANIMATION := true
+
 # Inherit from common
 $(call inherit-product, device/samsung/universal8895-common/device-common.mk)
 

@@ -14,12 +14,12 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_dreamlte.mk
+    $(LOCAL_DIR)/aosp_dreamlte.mk
 
 COMMON_LUNCH_CHOICES := \
-	arrow_dreamlte-eng \
-	arrow_dreamlte-user \
-	arrow_dreamlte-userdebug
+	aosp_dreamlte-eng \
+	aosp_dreamlte-user \
+	aosp_dreamlte-userdebug
 
 
 
