@@ -16,6 +16,9 @@
 
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
+# Aospify
+CUSTOM_BUILD_TYPE := OFFICIAL
+
 # Bootanimation
 TARGET_HAS_BOOT_ANIMATION := true
 
