@@ -20,9 +20,3 @@ COMMON_LUNCH_CHOICES := \
 	arrow_dreamlte-eng \
 	arrow_dreamlte-user \
 	arrow_dreamlte-userdebug
-
-
-
-
-
-
